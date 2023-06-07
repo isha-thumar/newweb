@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imgbck {
+    background-image: url('myimg/IMG_20210711_180957.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+
+    background-attachment: fixed;
+
+}
+
+.imgbck2 {
+    background-image: url("IMG_20210912_091145.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
